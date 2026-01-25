@@ -4,7 +4,7 @@ In this experiment there is a brief description about the basic commands used in
 ## Aim
 To study the basics of Python instructions.
  
-### Tools used
+### Tools used  
  Google Colab or Jupyter Notebook
  
 ## Theory
