@@ -1,4 +1,4 @@
-# Experiment 6: Sets and Dictionaries in Python
+# Experiment 5: Sets and Dictionaries in Python
 
 A set is an unordered collection of unique elements, primarily used for mathematical operations like unions and intersections or for removing duplicates.
 
